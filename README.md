@@ -1,2 +1,2 @@
 # : 🙂 Growth Process
-> I solved the algorithm problem every day and recorded the answer. also It's like a place where I organized my growth process.
+> I solved algorithm problems every day and recorded them here. It's a place where I organized my growth process.
